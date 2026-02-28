@@ -203,6 +203,11 @@ hash = "0a5b03c7ebac217b8f5dc6314039a7338fd786b63146621996632acd9d8dbc8e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "66bdc905c0db7ecdcca5b85451aca40b872fdb87ea681e270401f418ef4d70e5"
+metafile = true
+
+[[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
 metafile = true

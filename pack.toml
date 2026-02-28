@@ -1,0 +1,13 @@
+name = "Abobus"
+author = "VetaL"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0d999a673efe42c633419af36bf23669ad1d58d1354a325e8c5b841e1729a2c1"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

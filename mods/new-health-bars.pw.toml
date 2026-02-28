@@ -1,0 +1,13 @@
+name = "Health Bars"
+filename = "HealthBars-v21.1.0-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A3VSiTms/versions/GCCpR8oa/HealthBars-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "a04446e836e40b9ad9d844bca9163db450d3f55a111d1ddd74bd2acdcf6e22661e099deb952959d07482053916d899bdcd367aff21530e8949563e434c0095d3"
+
+[update]
+[update.modrinth]
+mod-id = "A3VSiTms"
+version = "GCCpR8oa"

@@ -9,6 +9,30 @@ file = "config/customsplashscreen.json"
 hash = "abbaca9b578140568291f5b21144f008d02205bac1b44a54748fdcdd5717ef9b"
 
 [[files]]
+file = "config/customsplashscreen/background.png"
+hash = "9ad6b17cf9fe7b535f71ca9c7bf87b1a43803523e5d9cd6ca8723b18458848ba"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
+file = "config/customsplashscreen/square_logo.png"
+hash = "7e4897e9f11f9c44aaafdf6c5890803ff5e2908806748f89f1ac596e4e612f42"
+
+[[files]]
+file = "config/customsplashscreen/wide_logo.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/healthbars-client.toml"
+hash = "0cfa13856edbd4b15011fef90e4c6262c72f9a221c54dabbba795b8f612552db"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "3ac6a9f58bae25c375abc60bc1080599d16abffea42826c4d58b46bd061d3b66"
 

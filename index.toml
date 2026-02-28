@@ -58,7 +58,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
-hash = "59436241a0478f08bb246e69424b1decff6505af14d2e8db252c4aad49fadc8b"
+hash = "7308d0bd3ec563b5d4b31bff3ad267efd376d92f755e169997d356d4be2e1454"
 
 [[files]]
 file = "mods/another-furniture.pw.toml"

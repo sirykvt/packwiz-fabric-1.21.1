@@ -346,12 +346,9 @@ hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
-file = "mods/waterframes-FABRIC-mc1.21.1-v2.1.22.jar"
-hash = "7c6a79c48132f74543784dc325895ac8061fe4ff0a8712a08ec8c36516f97844"
-
-[[files]]
-file = "mods/watermedia-2.1.37.jar"
-hash = "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389"
+file = "mods/waterframes.pw.toml"
+hash = "6eacaa113ef27bddbd9c5966a65fd15a23d68bd826c1d594bfcf6c2380388e74"
+metafile = true
 
 [[files]]
 file = "mods/watermedia-binaries.pw.toml"
@@ -359,8 +356,14 @@ hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
 metafile = true
 
 [[files]]
-file = "mods/watermedia_youtube_plugin-2.1.2.jar"
-hash = "95c2841103b4d1e0c222f29b49d9500c0d5306772aa18c6eb11925be6ff7507e"
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "9fa9b86f4975f5995519f284c519482d7aa69f2e3cbc2be208dc43c46998bed6"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"

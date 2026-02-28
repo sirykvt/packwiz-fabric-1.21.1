@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "5061756c1c85f453dce5620c766f8e7529262525f8b503fc6a16122d58541999"
 
 [[files]]
+file = "config/customsplashscreen.json"
+hash = "abbaca9b578140568291f5b21144f008d02205bac1b44a54748fdcdd5717ef9b"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "3ac6a9f58bae25c375abc60bc1080599d16abffea42826c4d58b46bd061d3b66"
 

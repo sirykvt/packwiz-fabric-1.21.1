@@ -1,0 +1,13 @@
+name = "Elytra HUD"
+filename = "elytra-hud-3.0.1+1.21 - 1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9i8NoZRd/versions/DFL7qsOg/elytra-hud-3.0.1%2B1.21%20-%201.21.1.jar"
+hash-format = "sha512"
+hash = "df1de7f0d7c825c4cf996bd1c708b0b1b160637493cc1a5bda20608b645ac0b0cc722c16b928ec028156dcc29e49e8a8b1da50308d7c266474b0c303194a0312"
+
+[update]
+[update.modrinth]
+mod-id = "9i8NoZRd"
+version = "DFL7qsOg"

@@ -116,6 +116,11 @@ hash = "4afbe5d16695aa241c61c67d3cc3e0b1259872f3f1380241eeb51176c78fe038"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "5b68880f4f5606aa7848d5b1ed9fbb7351a41094a3e5d1090d943b85a5d8bc0a"
+metafile = true
+
+[[files]]
+file = "mods/elytra-hud-mod.pw.toml"
+hash = "398e5e390968b0c2567ffd79ac855782a5365e00dec77aa0917b6970e8b35c5b"
 metafile = true
 
 [[files]]
